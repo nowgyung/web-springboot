@@ -1,0 +1,5 @@
+package co.com.hyun.mvc.repository;
+
+public interface BoardRepository {
+
+}

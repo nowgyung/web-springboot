@@ -1,0 +1,6 @@
+package co.com.hyun.mvc.domain;
+
+
+public class Board {
+
+}
